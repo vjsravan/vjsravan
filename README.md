@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- TOP WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jay%20Sravan%20Vadlamudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Development%20Engineer%20%7C%20AI%20Architect%20%7C%20Cloud%20Native%20Builder&descAlignY=55&descSize=16" width="100%"/>
 
-<!-- VISITOR BADGE + SOCIAL QUICK LINKS -->
 <p>
   <a href="https://github.com/vjsravan"><img src="https://komarev.com/ghpvc/?username=vjsravan&label=Profile+Views&color=blueviolet&style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/jaysravan-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -11,14 +9,12 @@
   <a href="https://github.com/vjsravan?tab=followers"><img src="https://img.shields.io/github/followers/vjsravan?label=Follow&style=for-the-badge&color=1DA462&logo=github" /></a>
 </p>
 
-<!-- ANIMATED TYPING -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Intelligent+AI+Systems+%26+LLM+Pipelines;☁️+Cloud+Native+%7C+Microservices+%7C+Event-Driven+Arch;🔥+Java+21+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;🧠+RAG+%7C+AI+Agents+%7C+Vector+DBs+%7C+OpenAI+API;🚀+5%2B+Years+%7C+Distributed+Systems+%7C+High+Performance" alt="Typing SVG" />
+<!-- TYPING SVG - fixed URL using DenverCoder9 fork which is Camo-safe -->
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Systems+%26+LLM+Pipelines;Cloud+Native+%7C+Microservices+%7C+Event-Driven+Arch;Java+21+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;RAG+%7C+AI+Agents+%7C+Vector+DBs+%7C+OpenAI+API;5%2B+Years+%7C+Distributed+Systems+%7C+High+Performance" alt="Typing SVG" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════ TERMINAL ABOUT ME ═══════════════════ -->
 
 ```typescript
 // 👨‍💻 jay_sravan.ts — Who Am I?
@@ -43,7 +39,7 @@ const developer = {
     "Designing vector DB architectures that actually scale",
   ],
 
-  alsoKnownFor: "📹 YouTube • ✍️ Medium • 📸 Instagram — sharing the dev journey",
+  alsoKnownFor: "📹 YouTube  •  ✍️ Medium  •  📸 Instagram — sharing the dev journey",
 
   philosophy:  "Great software = empathy × precision × curiosity",
 };
@@ -51,38 +47,55 @@ const developer = {
 
 ---
 
-<!-- ═══════════════════ EXPERTISE AREAS ═══════════════════ -->
-
+<!-- ═══════════════════ CORE EXPERTISE ═══════════════════ -->
 <div align="center">
 <h2>⚡ Core Expertise</h2>
+</div>
 
-<table>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤖-AI%20%26%20ML%20Engineering-7B68EE?style=for-the-badge" /><br/><br/>
-<sub>LLMs • RAG Pipelines • AI Agents<br/>Prompt Engineering • Vector DBs<br/>OpenAI API • LangChain • HuggingFace</sub>
+<td align="center" valign="top" width="25%">
+
+**🤖 AI & ML Engineering**
+
+LLMs • RAG Pipelines • AI Agents<br/>
+Prompt Engineering • Vector DBs<br/>
+OpenAI API • LangChain • HuggingFace
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-FF6B35?style=for-the-badge" /><br/><br/>
-<sub>AWS • Azure • GCP<br/>Docker • Kubernetes • OpenShift<br/>CI/CD • GitHub Actions • Jenkins</sub>
+<td align="center" valign="top" width="25%">
+
+**☁️ Cloud & DevOps**
+
+AWS • Azure • GCP<br/>
+Docker • Kubernetes • OpenShift<br/>
+CI/CD • GitHub Actions • Jenkins
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚙️-Backend%20Engineering-1DA462?style=for-the-badge" /><br/><br/>
-<sub>Java 21 • Spring Boot • Python<br/>Microservices • FastAPI • GraphQL<br/>RESTful APIs • Event-Driven Arch</sub>
+<td align="center" valign="top" width="25%">
+
+**⚙️ Backend Engineering**
+
+Java 21 • Spring Boot • Python<br/>
+Microservices • FastAPI • GraphQL<br/>
+RESTful APIs • Event-Driven Arch
+
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📨-Data%20%26%20Messaging-F7B731?style=for-the-badge" /><br/><br/>
-<sub>Apache Kafka • RabbitMQ<br/>PostgreSQL • MongoDB • Redis<br/>Snowflake • Cassandra • Pinecone</sub>
+<td align="center" valign="top" width="25%">
+
+**📨 Data & Messaging**
+
+Apache Kafka • RabbitMQ<br/>
+PostgreSQL • MongoDB • Redis<br/>
+Snowflake • Cassandra • Pinecone
+
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
-
 <div align="center">
 <h2>🛠️ Tech Arsenal</h2>
 </div>
@@ -184,53 +197,26 @@ const developer = {
 ---
 
 <!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
 <div align="center">
 <h2>📊 GitHub Analytics</h2>
 
-<a href="https://github.com/vjsravan">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsravan&theme=tokyonight&hide_border=true&stroke=7B68EE&ring=7B68EE&fire=FF6B35" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsravan&theme=tokyonight&hide_border=true&stroke=7B68EE&ring=7B68EE&fire=FF6B35" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
-
 <div align="center">
 <h2>📈 Contribution Activity</h2>
 
-<a href="https://github.com/vjsravan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsravan&theme=tokyo-night&hide_border=true&area=true&custom_title=Jay%20Sravan%27s%20Contribution%20Graph" width="95%"/>
-</a>
-
-</div>
-
----
-
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
-<div align="center">
-<h2>🏆 GitHub Trophies</h2>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsravan&theme=tokyo-night&hide_border=true&area=true&custom_title=Jay%20Sravan%27s%20Contribution%20Graph" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
-
 <div align="center">
 <h2>🌐 Let's Build Something Extraordinary</h2>
 
@@ -240,7 +226,7 @@ const developer = {
   </a>
   &nbsp;
   <a href="https://vjsravan.github.io/jay-portfolio/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-vjsravan.github.io-FF5733?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-vjsravan.github.io-FF5733?style=for-the-badge&logo=firefoxbrowser&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://github.com/vjsravan">
@@ -252,12 +238,11 @@ const developer = {
 
 > *"The best way to predict the future is to architect it —*
 > *one scalable, observable, AI-powered commit at a time."*
-> 
-> — Jay Sravan Vadlamudi
+>
+> — **Jay Sravan Vadlamudi**
 
 <br/>
 
-<!-- BOTTOM WAVE BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
