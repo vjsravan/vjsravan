@@ -158,12 +158,16 @@ I'm a **Senior Software Development Engineer** with **5+ years** of experience b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="41%" alt="Top Languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=vjsravan&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vjsravan&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
@@ -172,7 +176,9 @@ I'm a **Senior Software Development Engineer** with **5+ years** of experience b
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
 
 ---
