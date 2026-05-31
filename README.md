@@ -1,219 +1,263 @@
-<!-- SECTION G: VISITOR COUNTER -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vjsravan&label=Profile%20Views&color=0e75b6&style=flat" alt="vjsravan" />
+<div align="center">
+
+<!-- TOP WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jay%20Sravan%20Vadlamudi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Senior%20Software%20Development%20Engineer%20%7C%20AI%20Architect%20%7C%20Cloud%20Native%20Builder&descAlignY=55&descSize=16" width="100%"/>
+
+<!-- VISITOR BADGE + SOCIAL QUICK LINKS -->
+<p>
+  <a href="https://github.com/vjsravan"><img src="https://komarev.com/ghpvc/?username=vjsravan&label=Profile+Views&color=blueviolet&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/jaysravan-fullstack/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://vjsravan.github.io/jay-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-FF5733?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/></a>
+  <a href="https://github.com/vjsravan?tab=followers"><img src="https://img.shields.io/github/followers/vjsravan?label=Follow&style=for-the-badge&color=1DA462&logo=github" /></a>
 </p>
 
-<!-- SECTION A: ANIMATED HEADER -->
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  <h1>Hi, I'm Jay Sravan Vadlamudi!</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Senior+Software+Development+Engineer;AI+%26+Full-Stack+Developer;5%2B+Years+of+Building+Scalable+Systems;Generative+AI+%7C+LLMs+%7C+Cloud+Native" alt="Typing SVG" />
-  <br/><br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+<!-- ANIMATED TYPING -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=7B68EE&center=true&vCenter=true&multiline=false&width=750&lines=🤖+Building+Intelligent+AI+Systems+%26+LLM+Pipelines;☁️+Cloud+Native+%7C+Microservices+%7C+Event-Driven+Arch;🔥+Java+21+%7C+Spring+Boot+%7C+Python+%7C+FastAPI;🧠+RAG+%7C+AI+Agents+%7C+Vector+DBs+%7C+OpenAI+API;🚀+5%2B+Years+%7C+Distributed+Systems+%7C+High+Performance" alt="Typing SVG" />
+
 </div>
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## 🚀 About Me
+<!-- ═══════════════════ TERMINAL ABOUT ME ═══════════════════ -->
 
-I'm a **Senior Software Development Engineer** with **5+ years** of experience building high-performance, cloud-native, and AI-powered applications. I thrive at the intersection of **Generative AI**, **microservices**, and **distributed systems** — turning complex problems into elegant, scalable solutions.
+```typescript
+// 👨‍💻 jay_sravan.ts — Who Am I?
 
-- 🧠 **AI Explorer** — Deeply passionate about LLMs, RAG pipelines, AI Agents, and Prompt Engineering
-- ☁️ **Cloud Native Developer** — Experienced with AWS, Azure & GCP building production-grade distributed systems
-- 🎥 **Content Creator** — Sharing knowledge on **YouTube**, **Medium**, and **Instagram**
-- ⚡ **Fun fact** — I can debug a Kafka consumer group issue faster than I can finish my morning coffee ☕
-- 🌱 Currently exploring **Multi-Agent AI Systems** and **Vector Database architectures**
-- 💡 I believe great software is built with **empathy, precision, and curiosity**
+const developer = {
+  name:        "Jay Sravan Vadlamudi",
+  title:       "Senior Software Development Engineer",
+  experience:  "5+ years",
+  location:    "🌍 Open to Remote & Global Opportunities",
 
----
+  currentFocus: [
+    "🤖 Building production-grade LLM & RAG pipelines",
+    "🧠 Designing multi-agent AI systems with LangChain",
+    "☁️  Architecting cloud-native microservices on AWS/Azure/GCP",
+    "⚡  Event-driven systems with Apache Kafka at scale",
+  ],
 
-<!-- SECTION C: TECH STACK -->
-## 🛠️ Tech Stack
+  superPowers: [
+    "Turning complex AI problems into elegant APIs",
+    "Debugging Kafka consumer groups faster than morning ☕",
+    "Making Spring Boot sing in harmony with Python AI models",
+    "Designing vector DB architectures that actually scale",
+  ],
 
-### 🤖 AI & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-</p>
+  alsoKnownFor: "📹 YouTube • ✍️ Medium • 📸 Instagram — sharing the dev journey",
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge&logo=apachekafka&logoColor=white" />
-</p>
-
-### 📨 Messaging & Streaming
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_Camel-E44D26?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/ActiveMQ-ED1B24?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Pub/Sub-4285F4?style=for-the-badge&logo=googlepubsub&logoColor=white" />
-  <img src="https://img.shields.io/badge/IBM_MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB2-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-</p>
-
-### 🔧 Tools & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge&logo=mockito&logoColor=black" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-  <img src="https://img.shields.io/badge/Informatica-FF4D00?style=for-the-badge&logo=informatica&logoColor=white" />
-</p>
+  philosophy:  "Great software = empathy × precision × curiosity",
+};
+```
 
 ---
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/jaysravan-fullstack/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jay_Sravan_Vadlamudi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://vjsravan.github.io/jay-portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-vjsravan.github.io-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://github.com/vjsravan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-vjsravan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
-<!-- SECTION E: GITHUB STATS -->
-## 📊 GitHub Stats
+<!-- ═══════════════════ EXPERTISE AREAS ═══════════════════ -->
 
 <div align="center">
+<h2>⚡ Core Expertise</h2>
 
-<a href="https://github.com/vjsravan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/vjsravan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</a>
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖-AI%20%26%20ML%20Engineering-7B68EE?style=for-the-badge" /><br/><br/>
+<sub>LLMs • RAG Pipelines • AI Agents<br/>Prompt Engineering • Vector DBs<br/>OpenAI API • LangChain • HuggingFace</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-FF6B35?style=for-the-badge" /><br/><br/>
+<sub>AWS • Azure • GCP<br/>Docker • Kubernetes • OpenShift<br/>CI/CD • GitHub Actions • Jenkins</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/⚙️-Backend%20Engineering-1DA462?style=for-the-badge" /><br/><br/>
+<sub>Java 21 • Spring Boot • Python<br/>Microservices • FastAPI • GraphQL<br/>RESTful APIs • Event-Driven Arch</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📨-Data%20%26%20Messaging-F7B731?style=for-the-badge" /><br/><br/>
+<sub>Apache Kafka • RabbitMQ<br/>PostgreSQL • MongoDB • Redis<br/>Snowflake • Cassandra • Pinecone</sub>
+</td>
+</tr>
+</table>
 
 </div>
+
+---
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+
+<div align="center">
+<h2>🛠️ Tech Arsenal</h2>
+</div>
+
+**🤖 AI / ML / Generative AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+**⚙️ Backend & Frameworks**
+
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+
+**📨 Messaging & Streaming**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Camel](https://img.shields.io/badge/Apache_Camel-E44D26?style=flat-square&logo=apache&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![ActiveMQ](https://img.shields.io/badge/ActiveMQ-ED1B24?style=flat-square&logo=apache&logoColor=white)
+![Google PubSub](https://img.shields.io/badge/Google_Pub/Sub-4285F4?style=flat-square&logo=googlepubsub&logoColor=white)
+![IBM MQ](https://img.shields.io/badge/IBM_MQ-052FAD?style=flat-square&logo=ibm&logoColor=white)
+
+**🗄️ Databases & Storage**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![DB2](https://img.shields.io/badge/IBM_DB2-052FAD?style=flat-square&logo=ibm&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+
+**☁️ Cloud, DevOps & Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![AWS SQS](https://img.shields.io/badge/SQS-FF9900?style=flat-square&logo=amazonsqs&logoColor=white)
+
+**🔧 Tools, Testing & Observability**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-25A162?style=flat-square&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=flat-square&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Informatica](https://img.shields.io/badge/Informatica-FF4D00?style=flat-square&logo=informatica&logoColor=white)
+
+---
+
+<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
+
+<div align="center">
+<h2>📊 GitHub Analytics</h2>
+
+<a href="https://github.com/vjsravan">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 <br/>
 
-<div align="center">
-
 <a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsravan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsravan&theme=tokyonight&hide_border=true&stroke=7B68EE&ring=7B68EE&fire=FF6B35" />
 </a>
 
 </div>
 
 ---
 
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
+<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
 
 <div align="center">
+<h2>📈 Contribution Activity</h2>
+
+<a href="https://github.com/vjsravan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vjsravan&theme=tokyo-night&hide_border=true&area=true&custom_title=Jay%20Sravan%27s%20Contribution%20Graph" width="95%"/>
+</a>
+
+</div>
+
+---
+
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+
+<div align="center">
+<h2>🏆 GitHub Trophies</h2>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="95%"/>
 </a>
 
 </div>
 
 ---
 
-<!-- SECTION H: FOOTER -->
-## 🤝 Let's Connect & Build Together!
+<!-- ═══════════════════ CONNECT ═══════════════════ -->
 
 <div align="center">
+<h2>🌐 Let's Build Something Extraordinary</h2>
 
-I'm always open to **collaborating on exciting projects**, discussing **AI innovations**, or just having a great tech conversation!
+<p>
+  <a href="https://www.linkedin.com/in/jaysravan-fullstack/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jay_Sravan_Vadlamudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://vjsravan.github.io/jay-portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-vjsravan.github.io-FF5733?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/vjsravan">
+    <img src="https://img.shields.io/badge/GitHub-vjsravan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/jaysravan-fullstack/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://vjsravan.github.io/jay-portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="https://github.com/vjsravan" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br/>
 
-<br/><br/>
+> *"The best way to predict the future is to architect it —*
+> *one scalable, observable, AI-powered commit at a time."*
+> 
+> — Jay Sravan Vadlamudi
 
-> *"The best way to predict the future is to build it — one commit at a time."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+<!-- BOTTOM WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
