@@ -158,14 +158,24 @@ I'm a **Senior Software Development Engineer** with **5+ years** of experience b
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/vjsravan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
+
+<a href="https://github.com/vjsravan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjsravan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/vjsravan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjsravan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</a>
+
 </div>
 
+<br/>
+
 <div align="center">
+
+<a href="https://git.io/streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vjsravan&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 ---
@@ -174,7 +184,11 @@ I'm a **Senior Software Development Engineer** with **5+ years** of experience b
 ## 🏆 GitHub Trophies
 
 <div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=vjsravan&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</a>
+
 </div>
 
 ---
