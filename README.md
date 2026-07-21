@@ -22,7 +22,7 @@
 const developer = {
   name:        "Jay Sravan Vadlamudi",
   title:       "Senior Software Development Engineer",
-  experience:  "5+ years",
+  experience:  "6+ years",
   location:    "🌍 Open to Remote & Global Opportunities",
 
   currentFocus: [
@@ -38,8 +38,6 @@ const developer = {
     "Making Spring Boot sing in harmony with Python AI models",
     "Designing vector DB architectures that actually scale",
   ],
-
-  alsoKnownFor: "📹 YouTube  •  ✍️ Medium  •  📸 Instagram — sharing the dev journey",
 
   philosophy:  "Great software = empathy × precision × curiosity",
 };
